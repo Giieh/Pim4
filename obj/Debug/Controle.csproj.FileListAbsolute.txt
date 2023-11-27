@@ -1,0 +1,9 @@
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\bin\Debug\Controle.dll
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\bin\Debug\Controle.pdb
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\bin\Debug\Modelo.dll
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\bin\Debug\Modelo.pdb
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\obj\Debug\Controle.csproj.CopyComplete
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\obj\Debug\Controle.dll
+C:\Users\Geovanna\Documents\Curso\Faculdade\PIM 04 UNIP\PIM\Controle\obj\Debug\Controle.pdb
